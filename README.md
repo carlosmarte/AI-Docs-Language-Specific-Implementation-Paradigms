@@ -1,0 +1,1 @@
+# AI-Docs-Language-Specific-Implementation-Paradigms
